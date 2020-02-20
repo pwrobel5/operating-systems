@@ -1,0 +1,520 @@
+***********TESTING CW02 PROGRAM**********
+
+
+Generating:
+	file name: 500-1.b
+	number of records: 500
+	size of single record: 1
+
+Copying:
+	from file: 500-1.b
+	to file: copy-lib-500-1.b
+	number of records: 500
+	size of single record: 1
+	mode: lib
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Copying:
+	from file: 500-1.b
+	to file: copy-sys-500-1.b
+	number of records: 500
+	size of single record: 1
+	mode: sys
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Sorting:
+	file name: 500-1.b
+	number of records: 500
+	size of single record: 1
+	mode: lib
+	Real time: 			10.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Sorting:
+	file name: copy-sys-500-1.b
+	number of records: 500
+	size of single record: 1
+	mode: sys
+	Real time: 			70.000000 ms
+	User mode time: 		10.000000 ms
+	Kernel mode time: 		40.000000 ms
+
+Generating:
+	file name: 5000-1.b
+	number of records: 5000
+	size of single record: 1
+
+Copying:
+	from file: 5000-1.b
+	to file: copy-lib-5000-1.b
+	number of records: 5000
+	size of single record: 1
+	mode: lib
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Copying:
+	from file: 5000-1.b
+	to file: copy-sys-5000-1.b
+	number of records: 5000
+	size of single record: 1
+	mode: sys
+	Real time: 			30.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		30.000000 ms
+
+Sorting:
+	file name: 5000-1.b
+	number of records: 5000
+	size of single record: 1
+	mode: lib
+	Real time: 			260.000000 ms
+	User mode time: 		160.000000 ms
+	Kernel mode time: 		80.000000 ms
+
+Sorting:
+	file name: copy-sys-5000-1.b
+	number of records: 5000
+	size of single record: 1
+	mode: sys
+	Real time: 			6080.000000 ms
+	User mode time: 		1300.000000 ms
+	Kernel mode time: 		4760.000000 ms
+
+Generating:
+	file name: 500-4.b
+	number of records: 500
+	size of single record: 4
+
+Copying:
+	from file: 500-4.b
+	to file: copy-lib-500-4.b
+	number of records: 500
+	size of single record: 4
+	mode: lib
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Copying:
+	from file: 500-4.b
+	to file: copy-sys-500-4.b
+	number of records: 500
+	size of single record: 4
+	mode: sys
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Sorting:
+	file name: 500-4.b
+	number of records: 500
+	size of single record: 4
+	mode: lib
+	Real time: 			10.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Sorting:
+	file name: copy-sys-500-4.b
+	number of records: 500
+	size of single record: 4
+	mode: sys
+	Real time: 			70.000000 ms
+	User mode time: 		20.000000 ms
+	Kernel mode time: 		40.000000 ms
+
+Generating:
+	file name: 5000-4.b
+	number of records: 5000
+	size of single record: 4
+
+Copying:
+	from file: 5000-4.b
+	to file: copy-lib-5000-4.b
+	number of records: 5000
+	size of single record: 4
+	mode: lib
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Copying:
+	from file: 5000-4.b
+	to file: copy-sys-5000-4.b
+	number of records: 5000
+	size of single record: 4
+	mode: sys
+	Real time: 			40.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		30.000000 ms
+
+Sorting:
+	file name: 5000-4.b
+	number of records: 5000
+	size of single record: 4
+	mode: lib
+	Real time: 			250.000000 ms
+	User mode time: 		180.000000 ms
+	Kernel mode time: 		60.000000 ms
+
+Sorting:
+	file name: copy-sys-5000-4.b
+	number of records: 5000
+	size of single record: 4
+	mode: sys
+	Real time: 			6090.000000 ms
+	User mode time: 		1320.000000 ms
+	Kernel mode time: 		4760.000000 ms
+
+Generating:
+	file name: 500-512.b
+	number of records: 500
+	size of single record: 512
+
+Copying:
+	from file: 500-512.b
+	to file: copy-lib-500-512.b
+	number of records: 500
+	size of single record: 512
+	mode: lib
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Copying:
+	from file: 500-512.b
+	to file: copy-sys-500-512.b
+	number of records: 500
+	size of single record: 512
+	mode: sys
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Sorting:
+	file name: 500-512.b
+	number of records: 500
+	size of single record: 512
+	mode: lib
+	Real time: 			30.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		10.000000 ms
+
+Sorting:
+	file name: copy-sys-500-512.b
+	number of records: 500
+	size of single record: 512
+	mode: sys
+	Real time: 			70.000000 ms
+	User mode time: 		10.000000 ms
+	Kernel mode time: 		50.000000 ms
+
+Generating:
+	file name: 5000-512.b
+	number of records: 5000
+	size of single record: 512
+
+Copying:
+	from file: 5000-512.b
+	to file: copy-lib-5000-512.b
+	number of records: 5000
+	size of single record: 512
+	mode: lib
+	Real time: 			10.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Copying:
+	from file: 5000-512.b
+	to file: copy-sys-5000-512.b
+	number of records: 5000
+	size of single record: 512
+	mode: sys
+	Real time: 			30.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		30.000000 ms
+
+Sorting:
+	file name: 5000-512.b
+	number of records: 5000
+	size of single record: 512
+	mode: lib
+	Real time: 			1640.000000 ms
+	User mode time: 		550.000000 ms
+	Kernel mode time: 		1080.000000 ms
+
+Sorting:
+	file name: copy-sys-5000-512.b
+	number of records: 5000
+	size of single record: 512
+	mode: sys
+	Real time: 			6490.000000 ms
+	User mode time: 		1310.000000 ms
+	Kernel mode time: 		5160.000000 ms
+
+Generating:
+	file name: 500-1024.b
+	number of records: 500
+	size of single record: 1024
+
+Copying:
+	from file: 500-1024.b
+	to file: copy-lib-500-1024.b
+	number of records: 500
+	size of single record: 1024
+	mode: lib
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Copying:
+	from file: 500-1024.b
+	to file: copy-sys-500-1024.b
+	number of records: 500
+	size of single record: 1024
+	mode: sys
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Sorting:
+	file name: 500-1024.b
+	number of records: 500
+	size of single record: 1024
+	mode: lib
+	Real time: 			40.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		30.000000 ms
+
+Sorting:
+	file name: copy-sys-500-1024.b
+	number of records: 500
+	size of single record: 1024
+	mode: sys
+	Real time: 			80.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		60.000000 ms
+
+Generating:
+	file name: 5000-1024.b
+	number of records: 5000
+	size of single record: 1024
+
+Copying:
+	from file: 5000-1024.b
+	to file: copy-lib-5000-1024.b
+	number of records: 5000
+	size of single record: 1024
+	mode: lib
+	Real time: 			10.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Copying:
+	from file: 5000-1024.b
+	to file: copy-sys-5000-1024.b
+	number of records: 5000
+	size of single record: 1024
+	mode: sys
+	Real time: 			40.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		30.000000 ms
+
+Sorting:
+	file name: 5000-1024.b
+	number of records: 5000
+	size of single record: 1024
+	mode: lib
+	Real time: 			3130.000000 ms
+	User mode time: 		1040.000000 ms
+	Kernel mode time: 		2070.000000 ms
+
+Sorting:
+	file name: copy-sys-5000-1024.b
+	number of records: 5000
+	size of single record: 1024
+	mode: sys
+	Real time: 			6830.000000 ms
+	User mode time: 		1290.000000 ms
+	Kernel mode time: 		5520.000000 ms
+
+Generating:
+	file name: 500-4096.b
+	number of records: 500
+	size of single record: 4096
+
+Copying:
+	from file: 500-4096.b
+	to file: copy-lib-500-4096.b
+	number of records: 500
+	size of single record: 4096
+	mode: lib
+	Real time: 			0.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Copying:
+	from file: 500-4096.b
+	to file: copy-sys-500-4096.b
+	number of records: 500
+	size of single record: 4096
+	mode: sys
+	Real time: 			10.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Sorting:
+	file name: 500-4096.b
+	number of records: 500
+	size of single record: 4096
+	mode: lib
+	Real time: 			90.000000 ms
+	User mode time: 		10.000000 ms
+	Kernel mode time: 		70.000000 ms
+
+Sorting:
+	file name: copy-sys-500-4096.b
+	number of records: 500
+	size of single record: 4096
+	mode: sys
+	Real time: 			100.000000 ms
+	User mode time: 		20.000000 ms
+	Kernel mode time: 		70.000000 ms
+
+Generating:
+	file name: 5000-4096.b
+	number of records: 5000
+	size of single record: 4096
+
+Copying:
+	from file: 5000-4096.b
+	to file: copy-lib-5000-4096.b
+	number of records: 5000
+	size of single record: 4096
+	mode: lib
+	Real time: 			50.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		40.000000 ms
+
+Copying:
+	from file: 5000-4096.b
+	to file: copy-sys-5000-4096.b
+	number of records: 5000
+	size of single record: 4096
+	mode: sys
+	Real time: 			40.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		40.000000 ms
+
+Sorting:
+	file name: 5000-4096.b
+	number of records: 5000
+	size of single record: 4096
+	mode: lib
+	Real time: 			10540.000000 ms
+	User mode time: 		1560.000000 ms
+	Kernel mode time: 		8970.000000 ms
+
+Sorting:
+	file name: copy-sys-5000-4096.b
+	number of records: 5000
+	size of single record: 4096
+	mode: sys
+	Real time: 			9490.000000 ms
+	User mode time: 		1300.000000 ms
+	Kernel mode time: 		8180.000000 ms
+
+Generating:
+	file name: 500-8192.b
+	number of records: 500
+	size of single record: 8192
+
+Copying:
+	from file: 500-8192.b
+	to file: copy-lib-500-8192.b
+	number of records: 500
+	size of single record: 8192
+	mode: lib
+	Real time: 			10.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		10.000000 ms
+
+Copying:
+	from file: 500-8192.b
+	to file: copy-sys-500-8192.b
+	number of records: 500
+	size of single record: 8192
+	mode: sys
+	Real time: 			10.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		0.000000 ms
+
+Sorting:
+	file name: 500-8192.b
+	number of records: 500
+	size of single record: 8192
+	mode: lib
+	Real time: 			140.000000 ms
+	User mode time: 		30.000000 ms
+	Kernel mode time: 		100.000000 ms
+
+Sorting:
+	file name: copy-sys-500-8192.b
+	number of records: 500
+	size of single record: 8192
+	mode: sys
+	Real time: 			150.000000 ms
+	User mode time: 		10.000000 ms
+	Kernel mode time: 		130.000000 ms
+
+Generating:
+	file name: 5000-8192.b
+	number of records: 5000
+	size of single record: 8192
+
+Copying:
+	from file: 5000-8192.b
+	to file: copy-lib-5000-8192.b
+	number of records: 5000
+	size of single record: 8192
+	mode: lib
+	Real time: 			90.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		90.000000 ms
+
+Copying:
+	from file: 5000-8192.b
+	to file: copy-sys-5000-8192.b
+	number of records: 5000
+	size of single record: 8192
+	mode: sys
+	Real time: 			90.000000 ms
+	User mode time: 		0.000000 ms
+	Kernel mode time: 		80.000000 ms
+
+Sorting:
+	file name: 5000-8192.b
+	number of records: 5000
+	size of single record: 8192
+	mode: lib
+	Real time: 			15440.000000 ms
+	User mode time: 		1610.000000 ms
+	Kernel mode time: 		13820.000000 ms
+
+Sorting:
+	file name: copy-sys-5000-8192.b
+	number of records: 5000
+	size of single record: 8192
+	mode: sys
+	Real time: 			15780.000000 ms
+	User mode time: 		1490.000000 ms
+	Kernel mode time: 		14270.000000 ms
+
+***********TESTING CW02 PROGRAM ENDED**********
