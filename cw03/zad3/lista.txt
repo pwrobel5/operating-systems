@@ -1,0 +1,1 @@
+plik.test ./ 5
