@@ -1,0 +1,5 @@
+ls -l | head -n3 | tail -n2
+ls -l -a | head -n5 | tail -n3
+ps -aux | grep piotr | head -n25
+cat cw05_pot_nienazwane.c | grep int | head -n13 | wc
+cat cw05_pot_nienazwane.c | wc -l
