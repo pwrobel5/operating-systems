@@ -1,0 +1,454 @@
+***********TESTING CW08 FILTERING**********
+
+Test for filter identity.txt
+
+	Starting filtration
+		threads: 1
+		mode: block
+		filter dimension: 3
+
+		Pthread 140351934056192 ended, used time: 0.028305 s
+	Total time: 0.028614 s
+
+	Starting filtration
+		threads: 1
+		mode: interleaved
+		filter dimension: 3
+
+		Pthread 140199629268736 ended, used time: 0.028140 s
+	Total time: 0.028401 s
+
+	Starting filtration
+		threads: 2
+		mode: block
+		filter dimension: 3
+
+		Pthread 139958141961984 ended, used time: 0.021410 s
+		Pthread 139958133569280 ended, used time: 0.021342 s
+	Total time: 0.021679 s
+
+	Starting filtration
+		threads: 2
+		mode: interleaved
+		filter dimension: 3
+
+		Pthread 140152831399680 ended, used time: 0.016940 s
+		Pthread 140152823006976 ended, used time: 0.013235 s
+	Total time: 0.017358 s
+
+	Starting filtration
+		threads: 4
+		mode: block
+		filter dimension: 3
+
+		Pthread 140188164355840 ended, used time: 0.010923 s
+		Pthread 140188155963136 ended, used time: 0.010799 s
+		Pthread 140188147570432 ended, used time: 0.010840 s
+		Pthread 140188139177728 ended, used time: 0.010641 s
+	Total time: 0.011102 s
+
+	Starting filtration
+		threads: 4
+		mode: interleaved
+		filter dimension: 3
+
+		Pthread 140263291836160 ended, used time: 0.011799 s
+		Pthread 140263283443456 ended, used time: 0.011356 s
+		Pthread 140263275050752 ended, used time: 0.011701 s
+		Pthread 140263266658048 ended, used time: 0.012186 s
+	Total time: 0.012525 s
+
+	Starting filtration
+		threads: 8
+		mode: block
+		filter dimension: 3
+
+		Pthread 140555903473408 ended, used time: 0.005461 s
+		Pthread 140555895080704 ended, used time: 0.005499 s
+		Pthread 140555886688000 ended, used time: 0.005449 s
+		Pthread 140555878295296 ended, used time: 0.005497 s
+		Pthread 140555869902592 ended, used time: 0.005468 s
+		Pthread 140555861509888 ended, used time: 0.005481 s
+		Pthread 140555853117184 ended, used time: 0.005283 s
+		Pthread 140555844724480 ended, used time: 0.005041 s
+	Total time: 0.011385 s
+
+	Starting filtration
+		threads: 8
+		mode: interleaved
+		filter dimension: 3
+
+		Pthread 140532617008896 ended, used time: 0.007887 s
+		Pthread 140532608616192 ended, used time: 0.005473 s
+		Pthread 140532600223488 ended, used time: 0.005921 s
+		Pthread 140532591830784 ended, used time: 0.006525 s
+		Pthread 140532583438080 ended, used time: 0.005632 s
+		Pthread 140532575045376 ended, used time: 0.010103 s
+		Pthread 140532566652672 ended, used time: 0.005594 s
+		Pthread 140532558259968 ended, used time: 0.005774 s
+	Total time: 0.016410 s
+
+Test for filter identity.txt ended
+
+Test for filter edge.txt
+
+	Starting filtration
+		threads: 1
+		mode: block
+		filter dimension: 3
+
+		Pthread 139808537925376 ended, used time: 0.025826 s
+	Total time: 0.026099 s
+
+	Starting filtration
+		threads: 1
+		mode: interleaved
+		filter dimension: 3
+
+		Pthread 139751816541952 ended, used time: 0.027287 s
+	Total time: 0.027833 s
+
+	Starting filtration
+		threads: 2
+		mode: block
+		filter dimension: 3
+
+		Pthread 140402913294080 ended, used time: 0.016421 s
+		Pthread 140402904901376 ended, used time: 0.015945 s
+	Total time: 0.016594 s
+
+	Starting filtration
+		threads: 2
+		mode: interleaved
+		filter dimension: 3
+
+		Pthread 139862992045824 ended, used time: 0.021965 s
+		Pthread 139862983653120 ended, used time: 0.021720 s
+	Total time: 0.022123 s
+
+	Starting filtration
+		threads: 4
+		mode: block
+		filter dimension: 3
+
+		Pthread 140548424865536 ended, used time: 0.012130 s
+		Pthread 140548416472832 ended, used time: 0.010910 s
+		Pthread 140548408080128 ended, used time: 0.010899 s
+		Pthread 140548399687424 ended, used time: 0.012175 s
+	Total time: 0.012348 s
+
+	Starting filtration
+		threads: 4
+		mode: interleaved
+		filter dimension: 3
+
+		Pthread 139918711195392 ended, used time: 0.011113 s
+		Pthread 139918702802688 ended, used time: 0.010886 s
+		Pthread 139918694409984 ended, used time: 0.010812 s
+		Pthread 139918686017280 ended, used time: 0.010787 s
+	Total time: 0.011273 s
+
+	Starting filtration
+		threads: 8
+		mode: block
+		filter dimension: 3
+
+		Pthread 139998038054656 ended, used time: 0.006440 s
+		Pthread 139998029661952 ended, used time: 0.005573 s
+		Pthread 139998021269248 ended, used time: 0.005972 s
+		Pthread 139998012876544 ended, used time: 0.005657 s
+		Pthread 139997881562880 ended, used time: 0.005642 s
+		Pthread 139998004483840 ended, used time: 0.005587 s
+		Pthread 139997996091136 ended, used time: 0.005869 s
+		Pthread 139997987698432 ended, used time: 0.004732 s
+	Total time: 0.012266 s
+
+	Starting filtration
+		threads: 8
+		mode: interleaved
+		filter dimension: 3
+
+		Pthread 140186820962048 ended, used time: 0.009217 s
+		Pthread 140186812569344 ended, used time: 0.005303 s
+		Pthread 140186804176640 ended, used time: 0.008991 s
+		Pthread 140186795783936 ended, used time: 0.016111 s
+		Pthread 140186787391232 ended, used time: 0.006622 s
+		Pthread 140186658797312 ended, used time: 0.005622 s
+		Pthread 140186778998528 ended, used time: 0.005118 s
+		Pthread 140186768410368 ended, used time: 0.004129 s
+	Total time: 0.016350 s
+
+Test for filter edge.txt ended
+
+Test for filter gaussian_blur.txt
+
+	Starting filtration
+		threads: 1
+		mode: block
+		filter dimension: 5
+
+		Pthread 140287866947328 ended, used time: 0.063403 s
+	Total time: 0.063707 s
+
+	Starting filtration
+		threads: 1
+		mode: interleaved
+		filter dimension: 5
+
+		Pthread 140307186108160 ended, used time: 0.068204 s
+	Total time: 0.068483 s
+
+	Starting filtration
+		threads: 2
+		mode: block
+		filter dimension: 5
+
+		Pthread 139961274783488 ended, used time: 0.053492 s
+		Pthread 139961266390784 ended, used time: 0.052998 s
+	Total time: 0.053688 s
+
+	Starting filtration
+		threads: 2
+		mode: interleaved
+		filter dimension: 5
+
+		Pthread 139697370953472 ended, used time: 0.053307 s
+		Pthread 139697362560768 ended, used time: 0.053448 s
+	Total time: 0.053664 s
+
+	Starting filtration
+		threads: 4
+		mode: block
+		filter dimension: 5
+
+		Pthread 140235665327872 ended, used time: 0.029352 s
+		Pthread 140235656935168 ended, used time: 0.031697 s
+		Pthread 140235648542464 ended, used time: 0.027157 s
+		Pthread 140235640149760 ended, used time: 0.026394 s
+	Total time: 0.031889 s
+
+	Starting filtration
+		threads: 4
+		mode: interleaved
+		filter dimension: 5
+
+		Pthread 140383532128000 ended, used time: 0.027314 s
+		Pthread 140383523735296 ended, used time: 0.036054 s
+		Pthread 140383515342592 ended, used time: 0.029382 s
+		Pthread 140383506949888 ended, used time: 0.029310 s
+	Total time: 0.036207 s
+
+	Starting filtration
+		threads: 8
+		mode: block
+		filter dimension: 5
+
+		Pthread 140512049387264 ended, used time: 0.024491 s
+		Pthread 140512040994560 ended, used time: 0.025786 s
+		Pthread 140512032601856 ended, used time: 0.012796 s
+		Pthread 140512024209152 ended, used time: 0.025394 s
+		Pthread 140511935461120 ended, used time: 0.017353 s
+		Pthread 140512015816448 ended, used time: 0.013935 s
+		Pthread 140511927068416 ended, used time: 0.021634 s
+		Pthread 140511918675712 ended, used time: 0.012326 s
+	Total time: 0.030884 s
+
+	Starting filtration
+		threads: 8
+		mode: interleaved
+		filter dimension: 5
+
+		Pthread 140546368186112 ended, used time: 0.031036 s
+		Pthread 140546359793408 ended, used time: 0.016350 s
+		Pthread 140546228090624 ended, used time: 0.013689 s
+		Pthread 140546351400704 ended, used time: 0.036782 s
+		Pthread 140546343008000 ended, used time: 0.026770 s
+		Pthread 140546334615296 ended, used time: 0.029558 s
+		Pthread 140546326222592 ended, used time: 0.029120 s
+		Pthread 140546317829888 ended, used time: 0.026540 s
+	Total time: 0.038083 s
+
+Test for filter gaussian_blur.txt ended
+
+Test for filter 30_filter.txt
+
+	Starting filtration
+		threads: 1
+		mode: block
+		filter dimension: 30
+
+		Pthread 139891072370432 ended, used time: 1.950191 s
+	Total time: 1.950407 s
+
+	Starting filtration
+		threads: 1
+		mode: interleaved
+		filter dimension: 30
+
+		Pthread 140204814329600 ended, used time: 2.236850 s
+	Total time: 2.237135 s
+
+	Starting filtration
+		threads: 2
+		mode: block
+		filter dimension: 30
+
+		Pthread 140005926467328 ended, used time: 1.096662 s
+		Pthread 140005918074624 ended, used time: 1.068809 s
+	Total time: 1.096872 s
+
+	Starting filtration
+		threads: 2
+		mode: interleaved
+		filter dimension: 30
+
+		Pthread 140227683251968 ended, used time: 1.011378 s
+		Pthread 140227674859264 ended, used time: 0.992652 s
+	Total time: 1.011611 s
+
+	Starting filtration
+		threads: 4
+		mode: block
+		filter dimension: 30
+
+		Pthread 140526077708032 ended, used time: 1.070906 s
+		Pthread 140526069315328 ended, used time: 1.144863 s
+		Pthread 140526060922624 ended, used time: 0.974032 s
+		Pthread 140526052529920 ended, used time: 1.061417 s
+	Total time: 1.145030 s
+
+	Starting filtration
+		threads: 4
+		mode: interleaved
+		filter dimension: 30
+
+		Pthread 140338151544576 ended, used time: 1.099609 s
+		Pthread 140338143151872 ended, used time: 1.373498 s
+		Pthread 140338056394496 ended, used time: 1.176095 s
+		Pthread 140338134759168 ended, used time: 1.352070 s
+	Total time: 1.373763 s
+
+	Starting filtration
+		threads: 8
+		mode: block
+		filter dimension: 30
+
+		Pthread 140137257514752 ended, used time: 1.341716 s
+		Pthread 140137249122048 ended, used time: 1.320257 s
+		Pthread 140137240729344 ended, used time: 1.345385 s
+		Pthread 140137232336640 ended, used time: 1.361868 s
+		Pthread 140136998237952 ended, used time: 1.275499 s
+		Pthread 140137223943936 ended, used time: 1.344145 s
+		Pthread 140137215551232 ended, used time: 1.139101 s
+		Pthread 140137132455680 ended, used time: 1.191007 s
+	Total time: 1.362234 s
+
+	Starting filtration
+		threads: 8
+		mode: interleaved
+		filter dimension: 30
+
+		Pthread 140569132037888 ended, used time: 0.967150 s
+		Pthread 140569123645184 ended, used time: 0.939146 s
+		Pthread 140569115252480 ended, used time: 0.888393 s
+		Pthread 140569106859776 ended, used time: 0.975203 s
+		Pthread 140568977995520 ended, used time: 1.009669 s
+		Pthread 140569098467072 ended, used time: 1.000626 s
+		Pthread 140569090074368 ended, used time: 0.986357 s
+		Pthread 140569081681664 ended, used time: 1.010863 s
+	Total time: 1.030260 s
+
+Test for filter 30_filter.txt ended
+
+Test for filter 65_filter.txt
+
+	Starting filtration
+		threads: 1
+		mode: block
+		filter dimension: 65
+
+		Pthread 140096652236544 ended, used time: 9.595392 s
+	Total time: 9.595606 s
+
+	Starting filtration
+		threads: 1
+		mode: interleaved
+		filter dimension: 65
+
+		Pthread 139798248384256 ended, used time: 9.982974 s
+	Total time: 9.983241 s
+
+	Starting filtration
+		threads: 2
+		mode: block
+		filter dimension: 65
+
+		Pthread 140175715919616 ended, used time: 6.316762 s
+		Pthread 140175707526912 ended, used time: 6.399398 s
+	Total time: 6.399633 s
+
+	Starting filtration
+		threads: 2
+		mode: interleaved
+		filter dimension: 65
+
+		Pthread 140325856749312 ended, used time: 6.421072 s
+		Pthread 140325848356608 ended, used time: 6.135397 s
+	Total time: 6.421245 s
+
+	Starting filtration
+		threads: 4
+		mode: block
+		filter dimension: 65
+
+		Pthread 139852357838592 ended, used time: 4.725560 s
+		Pthread 139852349445888 ended, used time: 4.833180 s
+		Pthread 139852341053184 ended, used time: 4.747777 s
+		Pthread 139852332660480 ended, used time: 4.438452 s
+	Total time: 4.833416 s
+
+	Starting filtration
+		threads: 4
+		mode: interleaved
+		filter dimension: 65
+
+		Pthread 140062880544512 ended, used time: 4.759497 s
+		Pthread 140062872151808 ended, used time: 4.731338 s
+		Pthread 140062863759104 ended, used time: 4.751641 s
+		Pthread 140062855366400 ended, used time: 4.605741 s
+	Total time: 4.759711 s
+
+	Starting filtration
+		threads: 8
+		mode: block
+		filter dimension: 65
+
+		Pthread 140671718065920 ended, used time: 4.686469 s
+		Pthread 140671709673216 ended, used time: 4.696421 s
+		Pthread 140671701280512 ended, used time: 4.588917 s
+		Pthread 140671692887808 ended, used time: 4.685912 s
+		Pthread 140671684495104 ended, used time: 4.554421 s
+		Pthread 140671676102400 ended, used time: 4.573994 s
+		Pthread 140671667709696 ended, used time: 4.687922 s
+		Pthread 140671453230848 ended, used time: 3.900141 s
+	Total time: 4.696640 s
+
+	Starting filtration
+		threads: 8
+		mode: interleaved
+		filter dimension: 65
+
+		Pthread 139862192494336 ended, used time: 4.578510 s
+		Pthread 139862184101632 ended, used time: 4.700846 s
+		Pthread 139862175708928 ended, used time: 4.612947 s
+		Pthread 139862167316224 ended, used time: 4.676044 s
+		Pthread 139862053222144 ended, used time: 4.589447 s
+		Pthread 139862158923520 ended, used time: 4.665971 s
+		Pthread 139862150530816 ended, used time: 4.648703 s
+		Pthread 139862142138112 ended, used time: 4.656177 s
+	Total time: 4.701202 s
+
+Test for filter 65_filter.txt ended
+
+
+***********TESTING CW03 RESOURCES ENDED**********
