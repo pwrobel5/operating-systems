@@ -25,6 +25,7 @@ pobranie paczki z taśmy, gdy osiągnięta została maksymalna ładowność cię
 * załadowanie paczki na taśmę w momencie gdy ciężarówka jest pełna i odjeżdża do wyładowania,
 * dopuszczenie do sytuacji, gdy któryś z pracowników nie jest w stanie przez dłuższy czas położyć paczki na taśmie,
 * pobranie paczki w innej kolejności niż tej, w której zostały położone na taśmie.
+
 Zrealizuj powyższy problem synchronizacyjny , wykorzystując mechanizmy synchronizacji procesów oraz pamięć współdzieloną ze standardu:
 * IPC - System V (50%)
 * IPC - Posix (50%)
