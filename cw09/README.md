@@ -1,5 +1,6 @@
 # Zestaw 9
 Opis problemu
+
 W ramach zadana należy zaimplementować rozwiązanie problemu synchronizacyjnego wagoników roller coaster.
 
 Po torze w wesołym miasteczku porusza się kilka wagoników  roller coaster. Wagoniki nie mogą się wyprzedzać (poruszają się po jednym torze). Po podjechaniu do platformy wagonik otwiera drzwi. Następnie z wagonika wysiadają pasażerowie (jeśli wagonik nie był pusty). Gdy wszyscy pasażerowie wysiądą, do wagonika wsiada kolejna grupa pasażerów. Gdy do wagonika wsiądzie dokładnie c pasażerów jeden z nich (wybrany losowo) wciska przycisk start. Wówczas wagonik zamyka drzwi i odjeżdża. Do platformy może następnie podjechać kolejny wagonik.
