@@ -1,5 +1,4 @@
-# Zadania - zestaw 1.
-## Zarządzanie pamięcią, biblioteki, pomiar czasu 
+# Zestaw 1. Zarządzanie pamięcią, biblioteki, pomiar czasu 
 
 ## Zadanie 1. Alokacja tablicy z wskaźnikami na bloki pamięci zawierające znaki (25%)
 Zaprojektuj i przygotuj zestaw funkcji (bibliotekę) do zarządzania tablicą bloków, w których to blokach pamięci zapisywane są rezultaty operacji przeglądania (poleceniem find) katalogów przekazywanych jako odpowiedni parametr w poszukiwaniu plików o nazwie podanych jako kolejny parametr funkcji.
